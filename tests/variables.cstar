@@ -1,0 +1,6 @@
+var input = scanf();
+var x = 10;
+var y = "Hello World!";
+var z = 10.99;
+var a = True;
+var b = False;
