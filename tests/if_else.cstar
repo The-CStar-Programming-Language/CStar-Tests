@@ -1,0 +1,2 @@
+var x = 10;
+if(var > 9 | printf("The number is in the double digits.") | else | printf("The number is not in the double digits."));
