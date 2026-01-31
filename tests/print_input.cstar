@@ -1,0 +1,4 @@
+printf("Hello World!");
+scanf("How are you doing?");
+var age;
+scanf("How old are you?", &age);
